@@ -1,0 +1,16 @@
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.exe
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.deps.json
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.runtimeconfig.json
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.runtimeconfig.dev.json
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\bin\Debug\net5.0\RGP-Dio.pdb
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.AssemblyInfo.cs
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\refint\RGP-Dio.dll
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.pdb
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\RGP-Dio.genruntimeconfig.cache
+C:\Users\dougl\Documents\Dev\Git\DIO\RGP-Dio\obj\Debug\net5.0\ref\RGP-Dio.dll
